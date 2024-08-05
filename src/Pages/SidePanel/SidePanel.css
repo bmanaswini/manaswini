@@ -1,0 +1,18 @@
+.side-panel{
+    color: #415a77;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 50%;
+}
+.list{
+    display: flex;
+    flex-direction:column;
+    color: #0d1b2a;
+    justify-content:space-around;
+    gap: 2em;
+}
+.list-unclicked:hover{
+    text-decoration: underline;
+    box-shadow: black;
+
+}

@@ -1,0 +1,52 @@
+.name{
+    font-size: 25px;
+    color: #0d1b2a;
+    font-weight: bolder;
+    text-align: center;
+    align-content: center;
+    margin-top: 100px;
+
+    margin-left: 480px;
+    /*margin-right: 100px;*/
+
+
+}
+
+.myPhoto{
+    border-radius: 50%;
+}
+.main-page{
+    display:flex;
+    flex-direction:row;
+    font-family: Inter, sans-serif;
+
+
+}
+
+.resume{
+    margin-left: 250px;
+    margin-right: 250px;
+    height: fit-content;
+
+}
+.subName{
+    color: #415a77;
+
+}
+
+@keyframes jumpInfinite {
+    0% {
+        transform: translateY(0%);
+
+    }
+    50% {
+        transform: translateY(50%);
+    }
+    100% {
+        transform: translateY(0%);
+    }
+}
+
+.arrow {
+animation: jumpInfinite 2.0s infinite;
+}

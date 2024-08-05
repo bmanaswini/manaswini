@@ -1,0 +1,35 @@
+.about-me{
+    color: #0d1b2a;
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 260px;
+    margin-right: 250px;
+
+    font-size: 20px;
+
+
+
+}
+
+/*.work-exp-card{*/
+/*    color: black;*/
+/*    !*text-align: left;*!*/
+/*    margin-top: 200px;*/
+/*    margin-left: 100px;*/
+/*    !*margin-right: 100px;*!*/
+
+/*    font-size: 20px;*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*    justify-content: space-around;*/
+
+
+/*}*/
+.card:hover{
+    border-radius: 5px;
+}
+
+/*.card {*/
+/*    flex: 0 0 45%;*/
+/*    color: black;*/
+/*}*/

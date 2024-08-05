@@ -1,0 +1,63 @@
+/*.sticky-nav {*/
+/*    position: fixed;*/
+/*    top:0;*/
+/*    z-index: 20;*/
+/*    margin-right: 0;*/
+/*    background-color: #bc6c25;*/
+/*    align-content: center;*/
+
+/*}*/
+
+/* StickyNavBar.css */
+.navbar {
+    width: 100%; /* Increase the width */
+    background-color: black;
+    position: relative;
+    top: 0;
+    transition: top 0.3s;
+    /*font-family: 'Inter', serif;*/
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+
+}
+
+.navbar ul li {
+    padding: 20px 50px;
+}
+
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/*.navbar ul li a h3{*/
+/*    color: white;*/
+/*    text-decoration: none;*/
+/*    display: flex;*/
+/*    justify-content: left;*/
+/*}*/
+
+.navbar ul a h3{
+    color: white;
+    text-decoration: none;
+    margin-right: 750px;
+    display: flex;
+    justify-content: left;
+    text-align-all: left;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    /*box-shadow: 0 4px 2px -2px gray;*/
+}
