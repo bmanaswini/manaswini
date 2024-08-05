@@ -44,7 +44,7 @@ const App = () => {
 
             <BrowserRouter>
                 <Routes>
-                    <Route path="/" exact element={<MainPage />} />
+                    <Route path="/" exact element={<MainPage /> }/>
                     <Route path="/about"  element={<section id = "about"><AboutMe /></section>} />
             {/*        <Route path="/resume"  element={<Resume />} />*/}
                     <Route path="/workexperience"  element={ <section id = "workexperience"> <WorkExperience /></section>} />
@@ -55,6 +55,7 @@ const App = () => {
             {/*    <SidePanel />*/}
                 </Routes>
             </BrowserRouter>
+            <section id = "mainpage"><MainPage /></section>
             <section id = "about"><AboutMe /></section>
             <section id = "workexperience"> <WorkExperience /></section>
             <section id = "contact">   <ContactMe/></section>

@@ -54,7 +54,7 @@ const TopNavBar = () => {
     return (
         <nav className={`navbar ${isSticky ? 'sticky' : ''}`}>
             <ul>
-                <a href="/" style={{ textDecoration: 'none' }}><h3>Manaswini</h3></a>
+                <a href="/manaswini" style={{ textDecoration: 'none' }}><h3>Manaswini</h3></a>
 
                 <li><a href="/#about">About</a></li>
                 <li><a href="/#workexperience">Work Experience</a></li>
