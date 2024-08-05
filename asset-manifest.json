@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.8900b378.css",
-    "main.js": "./static/js/main.c83aad54.js",
-    "static/media/docker-logo-blue.png": "./static/media/docker-logo-blue.7c458e84c4fe68d40608.png",
-    "static/media/myphoto.png": "./static/media/myphoto.aba1f45c705120c34474.png",
-    "static/media/python-logo.png": "./static/media/python-logo.63580e54e2e501e3d07d.png",
-    "static/media/101-UB-Primary-RGB-Blue.png": "./static/media/101-UB-Primary-RGB-Blue.af6dee4da880e8bcf858.png",
-    "static/media/GitHub_Logo.png": "./static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
-    "index.html": "./index.html",
-    "main.8900b378.css.map": "./static/css/main.8900b378.css.map",
-    "main.c83aad54.js.map": "./static/js/main.c83aad54.js.map"
+    "main.css": "/static/css/main.8900b378.css",
+    "main.js": "/static/js/main.c9193e2f.js",
+    "static/media/docker-logo-blue.png": "/static/media/docker-logo-blue.7c458e84c4fe68d40608.png",
+    "static/media/myphoto.png": "/static/media/myphoto.aba1f45c705120c34474.png",
+    "static/media/python-logo.png": "/static/media/python-logo.63580e54e2e501e3d07d.png",
+    "static/media/101-UB-Primary-RGB-Blue.png": "/static/media/101-UB-Primary-RGB-Blue.af6dee4da880e8bcf858.png",
+    "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
+    "index.html": "/index.html",
+    "main.8900b378.css.map": "/static/css/main.8900b378.css.map",
+    "main.c9193e2f.js.map": "/static/js/main.c9193e2f.js.map"
   },
   "entrypoints": [
     "static/css/main.8900b378.css",
-    "static/js/main.c83aad54.js"
+    "static/js/main.c9193e2f.js"
   ]
 }
