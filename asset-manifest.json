@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/manaswini/static/css/main.8900b378.css",
-    "main.js": "/manaswini/static/js/main.5eb42909.js",
+    "main.js": "/manaswini/static/js/main.05e71ee2.js",
     "static/media/docker-logo-blue.png": "/manaswini/static/media/docker-logo-blue.7c458e84c4fe68d40608.png",
     "static/media/myphoto.png": "/manaswini/static/media/myphoto.aba1f45c705120c34474.png",
     "static/media/python-logo.png": "/manaswini/static/media/python-logo.63580e54e2e501e3d07d.png",
@@ -9,10 +9,10 @@
     "static/media/GitHub_Logo.png": "/manaswini/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "index.html": "/manaswini/index.html",
     "main.8900b378.css.map": "/manaswini/static/css/main.8900b378.css.map",
-    "main.5eb42909.js.map": "/manaswini/static/js/main.5eb42909.js.map"
+    "main.05e71ee2.js.map": "/manaswini/static/js/main.05e71ee2.js.map"
   },
   "entrypoints": [
     "static/css/main.8900b378.css",
-    "static/js/main.5eb42909.js"
+    "static/js/main.05e71ee2.js"
   ]
 }
